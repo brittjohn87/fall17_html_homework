@@ -1,0 +1,35 @@
+.red_pie {
+	background-color: red;
+	height: 100px;
+	width: 100px;
+	border-radius: 100px 0px 0px 0px;
+	float: left;
+	margin: 0px 3px 0px 0px
+}
+
+.yellow_pie {
+	background-color: yellow;
+	height: 100px;
+	width: 100px;
+	border-radius: 0px 100px 0px 0px;
+	overflow: hidden;
+	margin: 0px 0px 3px 3px
+}
+
+.blue_pie {
+	background-color: blue;
+	height: 100px;
+	width: 100px;
+	border-radius: 0px 0px 0px 100px;
+	float: left;
+	margin: 0px 3px 0px 0px
+}
+
+.green_pie {
+	background-color: green;
+	height: 100px;
+	width: 100px;
+	border-radius: 0px 0px 100px 0px;
+	overflow: hidden;
+	margin: 3px 0px 0px 3px
+}

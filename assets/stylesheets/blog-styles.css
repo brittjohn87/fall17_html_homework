@@ -1,0 +1,56 @@
+h1 {
+	font-family: cursive;
+	font-weight: bold;
+	color: orange;
+	font-size: 50px;
+}
+
+h2 {
+	font-family: cursive;
+	font-weight: bold;
+	color: orange;
+	text-align: left; 
+	width: 1100px;
+}
+
+.paragraph {
+	font-family: impact;
+	color: white;
+	font-size: 25px; 
+	width: 1100px;
+	text-align: justify;
+}
+
+.murals a:hover {
+	color: orange
+}
+
+.murals a:visited {
+	color: #1E90FF;
+}
+
+body {
+	background-color: black;
+}
+
+.space {
+	height: 100px;
+	width: 100px;
+}
+
+.paragraph2 {
+	text-align: left;
+	width: 1100px;
+	color: white;
+	float: hidden;
+	font-family: impact;
+	
+}
+
+.paragraph3 {
+	text-align: right;
+	width: 1100px;
+	color: white;
+	text-overflow: hidden;
+	font-family: impact;
+}

@@ -1,0 +1,11 @@
+.michigan {
+	color: aqua;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+.slows a:hover {
+	color: red;
+	font-weight: bold;
+	font-family: impact;
+}
